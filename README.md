@@ -18,7 +18,6 @@ Olá! Meu nome é Vinicius Almeida 👋
 </div>
   
   ##
-  
   <div> 
-  <a href="https://www.linkedin.com/in/vinicius-almeida-4a95a1223/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/vinicius-almeida-4a95a1223/" rel="noopener noreferrer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
