@@ -1,7 +1,7 @@
   ##
 Olá! Meu nome é Vinicius Almeida 👋
 
-- 🔭 Atualmente, estou graduando sistemas de informação.
+- 🎓 Atualmente, estou graduando sistemas de informação.
 - 🌱 Estagiário Software Developer.
 - 📫 Pode entrar em contato comigo: viniciusdealmeida2011@hotmail.com
 
